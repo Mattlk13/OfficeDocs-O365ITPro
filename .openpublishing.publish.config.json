@@ -159,7 +159,8 @@
     "name": "docfx_v3"
   },
   "redirection_files": [
-    ".openpublishing.redirection.yammer.json",
-    ".openpublishing.redirection.json"
+    ".openpublishing.redirection.json",
+    ".openpublishing.redirection.kaizala.json",
+    ".openpublishing.redirection.yammer.json"
   ]
 }
