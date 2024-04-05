@@ -1,0 +1,284 @@
+{
+  "redirections": [
+    {
+      "source_path": "Office365-Kaizala/aad-sync-with-tul.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/action-reports.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/actions.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/add-users.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/admin-role.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/adoption-and-activity-reports.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/age-verification.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/analytics.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/bring-everyone-together.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/chat-history.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/collect-feedback.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/connectors.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/connect-with-employees.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/content-pack.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/create-company-connect-groups.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/create-custom-actions.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/create-discussion-groups.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/create-kaizala-groups.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/create-phone-directory.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/delete-users.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/digitize-tasks.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/enable-disable-kaizala.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/export-or-delete-a-user-s-data.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/export-or-delete-your-data.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/get-conversations-going.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/get-started-kaizala.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/group-policies.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/groups.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/groups-in-kaizala.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/integrate-with-microsoft-intune.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/invite-people.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/invite-users-to-install-and-register.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/kaizala-app.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/kaizala-for-developers.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/kaizala-management-portal.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/kaizala-mobile-app.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/kaizala-overview.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/manage-kaizala-groups.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/migrate-kaizala-pro.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/move-work-chats.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/od-network.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/office-add-in.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/plan-rollout.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/public-groups.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/regional-availability.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/settings.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/set-up-directory.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/text-translation.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/TOC.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/troubleshoot-notifications.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/urls-and-IP-address-ranges.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/use-kaizala-actions.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/use-microsoft-flow-with-kaizala.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/users.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/use-the-web-app.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-Kaizala/view-user-details.md",
+      "redirect_url": "/microsoftteams/get-started-kaizala-teams",
+      "redirect_document_id": false
+    }
+  ]
+}
