@@ -1,5 +1,5 @@
 {:allowed-branchname-matches ["main"]
- :allowed-filename-matches ["Office365-SmallBusiness/" "Office365-Kaizala/" "Office365-admin/" "yammer/"]
+ :allowed-filename-matches ["Office365-SmallBusiness/" "Office365-Kaizala/" "Office365-admin/" "yammer/" "Office365-Planner/"]
   
  :use-gh-statuses true
  
