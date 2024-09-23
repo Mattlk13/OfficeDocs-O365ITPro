@@ -35,22 +35,6 @@
       "template_folder": "_themes"
     },
     {
-      "docset_name": "OfficeDocs-O365Kaizala",
-      "build_source_folder": "Office365-Kaizala",
-      "build_output_subfolder": "OfficeDocs-O365Kaizala",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
       "docset_name": "OfficeDocs-O365MileIQ",
       "build_source_folder": "Office365-MileIQ",
       "build_output_subfolder": "OfficeDocs-O365MileIQ",
@@ -118,9 +102,7 @@
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro",
   "git_repository_branch_open_to_public_contributors": "public",
-  "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -147,17 +129,17 @@
       "Pdf"
     ]
   },
-  "need_generate_pdf_url_template": true,
   "targets": {
     "pdf": {
       "template_folder": "_themes.pdf"
     }
   },
+  "docs_build_engine": {},
+  "skip_source_output_uploading": false,
+  "contribution_branch_mappings": {},
+  "need_generate_pdf_url_template": true,
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
-  "docs_build_engine": {
-    "name": "docfx_v3"
-  },
   "redirection_files": [
     ".openpublishing.redirection.json",
     ".openpublishing.redirection.kaizala.json",
