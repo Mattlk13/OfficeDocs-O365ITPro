@@ -142,7 +142,6 @@
   "need_generate_intellisense": false,
   "redirection_files": [
     ".openpublishing.redirection.json",
-    ".openpublishing.redirection.kaizala.json",
     ".openpublishing.redirection.yammer.json"
   ]
 }
