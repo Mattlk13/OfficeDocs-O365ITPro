@@ -47,19 +47,15 @@
       "hideEdit": true,
       "titleSuffix": "Yammer",
       "contributors_to_exclude": [ 
-        "rjagiewich", 
-        "traya1", 
+        "rjagiewich",  
         "rmca14", 
         "claydetels19", 
-        "jborsecnik",
         "tiburd",
         "garycentric",
         "beccarobins",
-        "Stacyrch140",
-        "v-stsavell",
-        "American-Dipper",
         "padmagit77",
-        "aditisrivastava07"
+        "aditisrivastava07",
+        "Ruchika-mittal01"
       ]
     },
     "fileMetadata": {},
